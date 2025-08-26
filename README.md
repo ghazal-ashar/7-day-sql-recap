@@ -1,9 +1,6 @@
 # SQL Practice with IMDb Dataset  
 
-[![Medium Blog](https://img.shields.io/badge/Read%20Blog-Medium-black?logo=medium)](https://medium.com/@ghazal3501/how-i-mastered-sql-in-7-days-a-data-engineers-journey-2153382d025e)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-grey?style=flat)  
+[![Medium Blog](https://img.shields.io/badge/Read%20Blog-Medium-black?logo=medium)](https://medium.com/@ghazal3501/how-i-mastered-sql-in-7-days-a-data-engineers-journey-2153382d025e)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-grey?style=flat)  
 ---
 
 ### Repository Contents  
@@ -11,7 +8,8 @@
 - `imdb_schema.sql` → Database schema for IMDb dataset  
 - `practice_queries.sql` → 7-day structured SQL revision queries  
 - `imdb_erd.png` → Entity Relationship Diagram (ERD)  
-- `imdb_dataset.zip` → Dataset files for hands-on practice  
+- `imdb_dataset.zip` → Dataset files for hands-on practice
+- `Querying Data with SQL - Outputs` → Expected outputs and insights
 
 ---
 
@@ -24,15 +22,15 @@
 
 ---
 
-### ERD  
-
-<img src="imdb_erd.png" alt="IMDb ERD" width="600">  
-
----
-
 ### Blog Walkthrough  
 Full 7-day SQL revision journey is documented here:  
 [How I Mastered SQL in 7 Days: A Data Engineer’s Journey](https://medium.com/@ghazal3501/how-i-mastered-sql-in-7-days-a-data-engineers-journey-2153382d025e)  
+
+---
+
+### ERD  
+
+<img src="imdb_erd.png" alt="IMDb ERD" width="600">  
 
 ---
 
